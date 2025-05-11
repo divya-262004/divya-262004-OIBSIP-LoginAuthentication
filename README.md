@@ -1,3 +1,6 @@
 # OIBSIP-LoginAuthentication
 Login Authenitication using Javascript
-Page:file:///F:/tributepage/login.html
+
+* Favicon from:
+<a href="https://www.file://F:/tributepage/login.html" title="Login">Freepik - Flaticon</a>
+
